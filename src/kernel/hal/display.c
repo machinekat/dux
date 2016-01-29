@@ -1,5 +1,6 @@
 #include <system.h>
 #include <api/display.h>
+#include <kernel/hal/ports.h>
 
 #define COLS (80)
 #define ROWS (25)
